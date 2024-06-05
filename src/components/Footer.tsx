@@ -1,7 +1,7 @@
-import Facebook from "../../public/Icons/Facebook"
-import GitHub from "../../public/Icons/GitHub"
-import Instagram from "../../public/Icons/Instagram"
-import LinkedIn from "../../public/Icons/LinkedIn"
+import Facebook from "../Icons/Facebook"
+import GitHub from "../Icons/GitHub"
+import Instagram from "../Icons/Instagram"
+import LinkedIn from "../Icons/LinkedIn"
 
 export const Footer = () => {
   return (

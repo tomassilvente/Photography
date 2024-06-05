@@ -24,14 +24,14 @@ export const Footer = () => {
             </nav>
         </div>
         <div>
-            <p className="font2 text-3xl">Teléfono</p>
-            <p className="text-2xl mt-7">+54 9 2932 500-900</p>
+            <p className="font2 sm:text-3xl">Teléfono</p>
+            <p className="sm:text-2xl mt-7">+54 9 2932 500-900</p>
         </div>
         <div className="lg:hidden">
         </div>
         <div>
-            <p className="font2 text-3xl">Email</p>
-            <p className="text-2xl mt-7">silventetomas@gmail.com</p>
+            <p className="font2 sm:text-3xl">Email</p>
+            <p className="sm:text-2xl mt-7">silventetomas@gmail.com</p>
         </div>
     </div>
   )

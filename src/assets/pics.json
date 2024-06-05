@@ -1,0 +1,85 @@
+{
+    "pictures":[
+        {
+        "tipo":"Reportate",
+        "url": "Repo/BautiM.jpeg"
+    },
+    {
+        "tipo":"Reportate",
+        "url": "Repo/Joaco.jpg"
+    },
+    {
+        "tipo":"Reportate",
+        "url": "Repo/Niomo.jpg"
+    },
+    {
+        "tipo":"Reportate",
+        "url": "Repo/Gian.JPG"
+    },
+    {
+        "tipo":"Womanchester",
+        "url": "Womanche/Mica1.jpg"
+    },
+    {
+        "tipo":"Womanchester",
+        "url": "Womanche/Lu1.jpg"
+    },
+    {
+        "tipo":"Womanchester",
+        "url": "Womanche/Luz2.jpg"
+    },{
+        "tipo":"Womanchester",
+        "url": "Womanche/Mica2.jpg"
+    },
+    {
+        "tipo":"Womanchester",
+        "url": "Womanche/Luz1.jpg"
+    },
+    {
+        "tipo":"Hockey",
+        "url": "Hockey/GonziM.jpg"
+    },
+    {
+        "tipo":"Hockey",
+        "url": "Hockey/Joaco.jpg"
+    },{
+        "tipo":"Hockey",
+        "url": "Hockey/ManuPe.jpg"
+    },
+    {
+        "tipo":"Hockey",
+        "url": "Hockey/Skepo.jpg"
+    },
+    {
+        "tipo":"Naturaleza",
+        "url": "Naturaleza/IglesiaV.jpg"
+    },
+    {
+        "tipo":"Naturaleza",
+        "url": "Naturaleza/Sasuke2.jpeg"
+    },
+    {
+        "tipo":"Naturaleza",
+        "url": "Naturaleza/Heidi2.jpg"
+    },
+    {
+        "tipo":"Naturaleza",
+        "url": "Naturaleza/Sasuke1.jpg"
+    },
+    {
+        "tipo":"Restaurante",
+        "url": "Restaurante/Panera.jpg"
+    },
+    {
+        "tipo":"Restaurante",
+        "url": "Restaurante/Ventana.jpg"
+    },
+    {
+        "tipo":"Restaurante",
+        "url": "Restaurante/Cafe.jpg"
+    },
+    {
+        "tipo":"Restaurante",
+        "url": "Restaurante/Cafetera.jpeg"
+    }]
+}

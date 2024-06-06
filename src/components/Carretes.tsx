@@ -27,8 +27,8 @@ export const Carretes = () => {
         {tipos.map((tipo,index) =>(
           <>
             {index % 2 == 0 
-              ? <img className='bg-[#3F3816]' src='../wavesNegativeTop.svg' />
-              : <img className='bg-[#c6c6ae]' src='../wavesNegative.svg' />
+              ? <img className='bg-[#3F3816] w-full mb-[-10px] sm:mb-0' src='../wavesNegativeTop.svg' />
+              : <img className='bg-[#c6c6ae] w-full mb-[-10px] sm:mb-0' src='../wavesNegative.svg' />
             }
             <div className={`${index % 2 == 0 ? 'text-[#3f3816]' : 'bg-[#3f3816] text-[#ddddc1]'} p-5 text-center space-x-2`}>
                 <h1 className={`text-6xl mb-10`} >{tipo.tipo}</h1>

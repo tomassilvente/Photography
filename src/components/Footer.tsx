@@ -25,13 +25,13 @@ export const Footer = () => {
         </div>
         <div>
             <p className="font2 sm:text-3xl">Teléfono</p>
-            <p className="sm:text-2xl mt-7">+54 9 2932 500-900</p>
+            <p className="sm:text-2xl mt-7 text-sm">+54 9 2932 500-900</p>
         </div>
         <div className="lg:hidden">
         </div>
         <div>
             <p className="font2 sm:text-3xl">Email</p>
-            <p className="sm:text-2xl mt-7">silventetomas@gmail.com</p>
+            <p className="sm:text-2xl mt-7 text-sm">silventetomas @gmail.com</p>
         </div>
     </div>
   )

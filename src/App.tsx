@@ -25,7 +25,7 @@ function App() {
       </div>
       <SobreMi />
       <Carretes />
-      <img className='bg-[#c6c6ae] w-full' src='../wavesNegative.svg' />
+      <img className='bg-[#c6c6ae] w-full' src='../common/wavesNegative.svg' />
       <Footer />
     </div>
   )

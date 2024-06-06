@@ -10,7 +10,7 @@ export const SobreMi = () => {
             <p className="mt-[8px]">Tomo esto como un Hobbie , junto a los videojuegos, para distraerme 💆🏻 cuando me saturo con los estudios y las frustrantes búsquedas laborales que parece que nunca se llega a destino final 😤 🤯 . </p>
             <p className="mt-[8px]">A continuación te dejo algunas fotos, para mostrarte algunos frutos de este pasatiempo ⬇️</p>
         </div>
-        <img className="lg:max-h-[750px] max-h-[500px] mx-auto my-6 place-self-center rounded-lg" src='../me.jpg'/>
+        <img className="lg:max-h-[750px] max-h-[500px] mx-auto my-6 place-self-center rounded-lg" src='../common/me.jpg'/>
     </div>
   )
 }

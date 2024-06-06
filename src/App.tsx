@@ -18,7 +18,7 @@ function App() {
               backgroundSize: "cover",
             }}>
         <div className='animate__animated animate__backInLeft'>
-          <h1 className='text-7xl text-white lg:ml-[20%] ml-[5%] pt-[130px] '> Tomás Silvente </h1>
+          <h1 className='text-7xl text-white lg:ml-[20%] ml-[5%] pt-[130px]'> Tomás Silvente </h1>
           <h1 className='text-3xl text-white lg:ml-[39%] ml-[6%] mt-[15px]'> Fotografía </h1>
           <SocialIcons />
         </div>
